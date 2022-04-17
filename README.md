@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @perfectionit
+- 👋 Hi, I’m @perfectionist
 - 👀 I’m interested in learnig full stock(front-end and back-end) programming
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on learning from your experience and any help possible
